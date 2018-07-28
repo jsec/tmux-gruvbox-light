@@ -1,5 +1,5 @@
 # tmux-gruvbox-light
-A tmux color scheme based on the [gruvbox](https://github.com/tmux/tmux) color palette and based on the [tmux-gruvbox](https://github.com/egel/tmux-gruvbox) dark theme.
+A tmux color scheme based on the [gruvbox](https://github.com/morhetz/gruvbox) color palette and based on the [tmux-gruvbox](https://github.com/egel/tmux-gruvbox) dark theme.
 
 Currently this is only tested on systems with 24-bit color support. Making the theme degrade gracefully for 8-bit palettes is in the works.
 
